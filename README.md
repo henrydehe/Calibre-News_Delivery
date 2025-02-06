@@ -31,9 +31,6 @@ Leverages GitHub Actions to schedule Calibre to send news via email.
 
 Normally, you may receive two example ebooks sent from your project.
 
-> [!TIP]
-> 📹 A Brief Tour Video: [https://youtu.be/sIFsoztF58A](https://youtu.be/sIFsoztF58A)
-
 ## Schedule
 
 The default delivery is scheduled to occur daily at midnight (00:00) UTC. You can change it according to your preference. The cron expression `- cron: '0 0 * * *'` can be found in the workflow file located at:
