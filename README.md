@@ -1,10 +1,6 @@
-__English__ · [简体中文](README.zh-CN.md)
-
----
 
 # Calibre News Delivery
 
-![](banner.png)
 
 Leverages GitHub Actions to schedule Calibre to send news via email.
 
