@@ -59,10 +59,6 @@ You can change the retention period in the "__[Artifact and log retention](../..
 
 Be aware that files exceeding the size limit for email attachments will not be sent via SMTP. You will need to download them manually from the Artifacts.
 
-## Notice
-
-This project does not accept any PRs for adding recipes. Please do something interesting on your own.
-
 ## Links
 
 * [API documentation for recipes](https://manual.calibre-ebook.com/news_recipe.html)
